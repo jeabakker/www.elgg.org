@@ -310,7 +310,7 @@
             "version": "2.2.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jquery/jquery-dist.git",
+                "url": "git@github.com:jquery/jquery-dist.git",
                 "reference": "c0185ab7c75aab88762c5aae780b9d83b80eda72"
             },
             "dist": {
@@ -380,7 +380,7 @@
             "version": "3.51",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jquery-form/form.git",
+                "url": "git@github.com:jquery-form/form.git",
                 "reference": "6bf24a5f6d8be65f4e5491863180c09356d9dadd"
             },
             "dist": {
@@ -1325,12 +1325,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Elgg/community.git",
-                "reference": "53389619b6638e604873abe83bac9f3c96615d6d"
+                "reference": "10a299d19a026d3f6617b1575648bbd07240d295"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Elgg/community/zipball/53389619b6638e604873abe83bac9f3c96615d6d",
-                "reference": "53389619b6638e604873abe83bac9f3c96615d6d",
+                "url": "https://api.github.com/repos/Elgg/community/zipball/10a299d19a026d3f6617b1575648bbd07240d295",
+                "reference": "10a299d19a026d3f6617b1575648bbd07240d295",
                 "shasum": ""
             },
             "require": {
@@ -1360,7 +1360,7 @@
                 "source": "https://github.com/Elgg/community/tree/master",
                 "issues": "https://github.com/Elgg/community/issues"
             },
-            "time": "2025-11-06T13:07:45+00:00"
+            "time": "2026-01-16T13:27:08+00:00"
         },
         {
             "name": "elgg/community_groups",
